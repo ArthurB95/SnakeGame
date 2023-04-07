@@ -21,6 +21,8 @@
 
 👨‍💻 SnakeGame - The intention of this project is to control the snake and achieve the highest score.
 
+🚀 You have access to this project on the website **(https://snakegameappbr.netlify.app/)**
+
 ---
 
 ## ⚙️ Functionalities
